@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.text.*;
 
-public class CF416-D2-E {
+public class CF416D2E {
 
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
